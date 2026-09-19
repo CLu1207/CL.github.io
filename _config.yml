@@ -4,8 +4,8 @@ description: 记录 CUDA 编程、GPU 计算与学习过程中的思考。
 author: CL
 language: zh-CN
 timezone: Asia/Shanghai
-url: https://clu1207.github.io/CL.github.io
-root: /CL.github.io/
+url: https://clu1207.github.io
+root: /
 permalink: blog/:title/
 pretty_urls:
   trailing_index: false
