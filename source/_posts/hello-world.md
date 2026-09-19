@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: 随笔/2026/09/19/hello-world.html
 title: "我的第一篇博客"
 date: 2026-09-19
 categories: [随笔]

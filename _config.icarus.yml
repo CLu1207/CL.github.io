@@ -1,0 +1,128 @@
+# Icarus 主题配置；修改后提交即可自动发布。
+version: 5.1.0
+variant: default
+logo:
+  text: CL / CUDA Notes
+head:
+  favicon: /images/avatar.svg
+  manifest:
+    name: null
+    short_name: null
+    start_url: null
+    theme_color: null
+    background_color: null
+    display: standalone
+    icons:
+      - src: ''
+        sizes: ''
+        type: null
+  open_graph:
+    title: null
+    type: blog
+    url: null
+    image: null
+    site_name: null
+    author: null
+    description: null
+    twitter_card: null
+    twitter_id: null
+    twitter_site: null
+    google_plus: null
+    fb_admins: null
+    fb_app_id: null
+  structured_data:
+    title: null
+    description: null
+    url: null
+    author: null
+    publisher: null
+    publisher_logo: null
+    image: null
+  meta:
+    - ''
+  rss: null
+navbar:
+  menu:
+    首页: /
+    归档: /archives/
+    标签: /tags/
+    关于: /about/
+  links:
+    GitHub:
+      icon: fab fa-github
+      url: https://github.com/CLu1207
+footer:
+  copyright: © 2026 CL
+  links: {}
+article:
+  highlight:
+    theme: atom-one-light
+    clipboard: true
+    fold: unfolded
+  readtime: true
+  update_time: auto
+  licenses: {}
+search:
+  type: insight
+  index_pages: true
+donates: []
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
+widgets:
+  - type: profile
+    position: left
+    author: CL
+    author_title: CUDA 学习 · GPU 编程
+    avatar: /images/avatar.svg
+    avatar_rounded: true
+    follow_link: https://github.com/CLu1207
+    social_links:
+      GitHub:
+        icon: fab fa-github
+        url: https://github.com/CLu1207
+  - type: tags
+    position: left
+    order_by: name
+    show_count: true
+  - type: toc
+    position: right
+    index: true
+    collapsed: false
+    depth: 3
+  - type: recent_posts
+    position: right
+  - type: archives
+    position: right
+plugins:
+  animejs: false
+  back_to_top: true
+  baidu_analytics:
+    tracking_id: null
+  bing_webmaster:
+    tracking_id: null
+  busuanzi: false
+  cnzz:
+    id: null
+    web_id: null
+  gallery: false
+  google_analytics:
+    tracking_id: null
+  hotjar:
+    site_id: null
+  katex: false
+  mathjax: true
+  outdated_browser: false
+  pjax: false
+  progressbar: false
+  statcounter:
+    project: null
+    security: null
+  twitter_conversion_tracking:
+    pixel_id: null
+providers:
+  cdn: jsdelivr
+  fontcdn: google
+  iconcdn: fontawesome
