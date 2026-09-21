@@ -1,6 +1,7 @@
 ---
 title: "Matrix Multiplication: Algebraic Views"
 date: 2026-09-21
+excerpt: "A brief look at matrix multiplication through algebraic views."
 categories:
   - Linear Algebra
 tags:
@@ -9,10 +10,6 @@ tags:
   - Matrix Multiplication
 toc: true
 ---
-
-A brief look at matrix multiplication through algebraic views.
-
-<!-- more -->
 
 Matrix multiplication is built on a hierarchy of linear algebra operations that can be organized in several ways. There are four perspectives to compute matrix multiplication.
 
