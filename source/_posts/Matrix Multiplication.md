@@ -1,3 +1,14 @@
+---
+title: Matrix Multiplication
+date: 2026-09-21
+categories:
+  - 线性代数
+tags:
+  - Matrix Multiplication
+  - GEMM
+toc: true
+---
+
 Matrix multiplication is built on a hierarchy of linear algebra operations that can be organized in several ways. There are four perspectives to compute matrix multiplication.
 
 $$
