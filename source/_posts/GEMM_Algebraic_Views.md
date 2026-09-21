@@ -9,6 +9,8 @@ tags:
 toc: true
 ---
 
+<!-- more -->
+
 Matrix multiplication is built on a hierarchy of linear algebra operations that can be organized in several ways. There are four perspectives to compute matrix multiplication.
 
 $$
