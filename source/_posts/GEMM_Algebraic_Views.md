@@ -1,13 +1,16 @@
 ---
-title: "GEMM: Algebraic Views"
+title: "Matrix Multiplication: Algebraic Views"
 date: 2026-09-21
 categories:
   - Linear Algebra
 tags:
   - Linear Algebra
   - GEMM
+  - Matrix Multiplication
 toc: true
 ---
+
+A brief look at matrix multiplication through algebraic views.
 
 <!-- more -->
 
