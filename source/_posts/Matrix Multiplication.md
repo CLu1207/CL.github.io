@@ -1,5 +1,5 @@
 ---
-title: GEMM: Algebraic Views
+title: "GEMM: Algebraic Views"
 date: 2026-09-21
 categories:
   - Linear Algebra
