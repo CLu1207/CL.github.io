@@ -1,10 +1,10 @@
 ---
-title: Matrix Multiplication
+title: GEMM: Algebraic Views
 date: 2026-09-21
 categories:
-  - 线性代数
+  - Linear Algebra
 tags:
-  - Matrix Multiplication
+  - Linear Algebra
   - GEMM
 toc: true
 ---
