@@ -126,3 +126,11 @@ end
 ```
 All four views extend to block matrix multiplication. As the computation is broken down into smaller blocks, these views can be combined at different levels of the hierarchy.
 ![](/images/Pasted%20image%2020260921200407.png)
+
+## References
+
+[1] Gilbert Strang, *18.06SC Linear Algebra: Multiplication and Inverse Matrices*, 
+MIT OpenCourseWare, Fall 2011.
+
+[2] Gene H. Golub and Charles F. Van Loan, *Matrix Computations*, 
+4th ed., Johns Hopkins University Press, 2013, Chapter 1.
